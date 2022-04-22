@@ -1,0 +1,43 @@
+*{
+    width: 950px;
+    margin: 0px;
+    padding: 0px;
+}
+.titulo{
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+.navegador{
+    color: blue;
+    font-size: 20px;
+    margin-bottom: 40px;
+    display: inline-flex;
+    justify-content: start;
+    list-style: none;
+    }
+.inicio:hover{
+color: black;
+}
+.sobre-nosotros:hover{
+    color: black;
+}
+.contacto:hover{
+    color: black;
+}
+.articulo{
+    color: red;
+    font-family: verdana;
+}
+.contenedor{
+    color: white;
+    background-color: gray;
+    border: 2px solid red;
+    width: 80%;
+}
+.enlace{
+    text-decoration: none;
+}
+.enlace:hover{
+       color: black;
+}
+    
